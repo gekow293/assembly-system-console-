@@ -1,0 +1,15 @@
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\bin\Debug\net6.0-windows\AssemblyConsoleApp.exe
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\bin\Debug\net6.0-windows\AssemblyConsoleApp.deps.json
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\bin\Debug\net6.0-windows\AssemblyConsoleApp.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\bin\Debug\net6.0-windows\AssemblyConsoleApp.dll
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\bin\Debug\net6.0-windows\AssemblyConsoleApp.pdb
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\net6.0-windows\AssemblyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\net6.0-windows\AssemblyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\net6.0-windows\AssemblyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\net6.0-windows\AssemblyConsoleApp.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\net6.0-windows\AssemblyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\net6.0-windows\AssemblyConsoleApp.dll
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\net6.0-windows\refint\AssemblyConsoleApp.dll
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\net6.0-windows\AssemblyConsoleApp.pdb
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\net6.0-windows\AssemblyConsoleApp.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Тестовые задания\Java-C#-Android\testconsoleapp\AssemblyConsoleApp\AssemblyConsoleApp\AssemblyConsoleApp\obj\Debug\net6.0-windows\ref\AssemblyConsoleApp.dll
